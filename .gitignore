@@ -2,3 +2,12 @@
 build
 web_modules
 node_modules
+*.DS_Store
+/.idea/codeStyles/Project.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/snowpack_starter.iml
+/.idea/vcs.xml
+/.idea/workspace.xml

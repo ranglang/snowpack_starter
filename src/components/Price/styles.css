@@ -1,0 +1,22 @@
+
+
+.priceBox {
+    padding: 12px;
+}
+
+.priceTitle {
+    color: #9a9a9a;
+    font-weight: 500;
+}
+
+.priceContent {
+    line-height: 32px;
+    font-size: large;
+    font-weight: 600;
+}
+
+.priceUnit {
+    margin-left: 4px;
+    font-weight: 600;
+    font-size: 14px;
+}
